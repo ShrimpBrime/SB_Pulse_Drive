@@ -1,6 +1,9 @@
 SB Pulse Drive
-https://www.youtube.com/watch?v=Eu5QVjCnEOU
+
 Short, controlled multi-drive activity pulses for Windows.
+
+https://youtu.be/Eu5QVjCnEOU?si=4GeONMsVfD1t1e87
+
 
 SB Pulse Drive is a lightweight portable utility created to wake and exercise multiple HDDs and SSDs at the same time. It was designed as a companion to SB SSD Temps, making it easy to check multi-drive activity gauges while producing useful short-duration throughput snapshots.
 
